@@ -1,0 +1,30 @@
+2026-06-10 18:16:45 ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in gr.aueb.cf.schoolapp.authentication.SecurityConfig required a bean of type 'org.springframework.security.web.authentication.AuthenticationSuccessHandler' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.web.authentication.AuthenticationSuccessHandler' in your configuration.
+
+2026-06-10 18:23:30 ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in gr.aueb.cf.schoolapp.authentication.SecurityConfig required a bean of type 'org.springframework.security.web.authentication.AuthenticationSuccessHandler' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.web.authentication.AuthenticationSuccessHandler' in your configuration.
+

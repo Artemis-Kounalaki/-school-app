@@ -1,0 +1,10 @@
+2026-06-10 18:16:40 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-10 18:16:40 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-06-10 18:16:40 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.50]
+2026-06-10 18:16:40 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-06-10 18:16:45 INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2026-06-10 18:23:23 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-10 18:23:23 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-06-10 18:23:23 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.50]
+2026-06-10 18:23:23 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-06-10 18:23:30 INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
