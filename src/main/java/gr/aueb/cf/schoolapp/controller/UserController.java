@@ -38,7 +38,6 @@ public class UserController {
     @PostMapping("/register")
     public String registerUser(@Valid @ModelAttribute("userInsertDTO") UserInsertDTO userInsertDTO,
                                BindingResult bindingResult, RedirectAttributes redirectAttributes,Model model){
-        //user validator - business rules - username TODO
 
         if (bindingResult.hasErrors()){
             return "user-form";
